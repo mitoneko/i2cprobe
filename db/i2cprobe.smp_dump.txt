@@ -1,0 +1,21 @@
+
+State Machine - |i2cprobe|i2c_status
+Name i2c_status.busy_wait i2c_status.mem_write i2c_status.data_low i2c_status.data_hi i2c_status.addr i2c_status.idle 
+i2c_status.idle 0 0 0 0 0 0 
+i2c_status.addr 0 0 0 0 1 1 
+i2c_status.data_hi 0 0 0 1 0 1 
+i2c_status.data_low 0 0 1 0 0 1 
+i2c_status.mem_write 0 1 0 0 0 1 
+i2c_status.busy_wait 1 0 0 0 0 1 
+
+State Machine - |i2cprobe|i2c_client:U1|state
+Name state.stop state.send_recv state.ack_data_end state.ack_data state.recv_data state.ack_addr_end state.ack_addr state.addr state.idle 
+state.idle 0 0 0 0 0 0 0 0 0 
+state.addr 0 0 0 0 0 0 0 1 1 
+state.ack_addr 0 0 0 0 0 0 1 0 1 
+state.ack_addr_end 0 0 0 0 0 1 0 0 1 
+state.recv_data 0 0 0 0 1 0 0 0 1 
+state.ack_data 0 0 0 1 0 0 0 0 1 
+state.ack_data_end 0 0 1 0 0 0 0 0 1 
+state.send_recv 0 1 0 0 0 0 0 0 1 
+state.stop 1 0 0 0 0 0 0 0 1 

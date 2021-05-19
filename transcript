@@ -1,0 +1,189 @@
+vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:20:52 on May 05,2021
+# vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity rise_span
+# -- Compiling architecture RTL of rise_span
+# ** Error: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(26): (vcom-1484) Unknown formal identifier "rize".
+# ** Error: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(59): (vcom-1136) Unknown identifier "staus".
+# ** Error: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(59): Type error resolving infix expression "=" as type std.STANDARD.BOOLEAN.
+# ** Error (suppressible): /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(33): (vcom-1339) Case statement choices cover only 4 out of 5 cases.
+# ** Note: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(60): VHDL Compiler exiting
+# End time: 23:20:52 on May 05,2021, Elapsed time: 0:00:00
+# Errors: 4, Warnings: 0
+vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:24:56 on May 05,2021
+# vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity rise_span
+# -- Compiling architecture RTL of rise_span
+# ** Error: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(63): (vcom-1136) Unknown identifier "std_logic_1164".
+# ** Note: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(65): VHDL Compiler exiting
+# End time: 23:24:56 on May 05,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:25:19 on May 05,2021
+# vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity rise_span
+# -- Compiling architecture RTL of rise_span
+# -- Compiling entity measure_i2c_puls
+# -- Compiling architecture RTL of measure_i2c_puls
+# ** Error: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(91): (vcom-1348) Prefix (component declaration "rise_span") of indexed name is not an array.
+# ** Error: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(92): (vcom-1348) Prefix (component declaration "rise_span") of indexed name is not an array.
+# ** Error: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(107): near "=>": (vcom-1576) expecting == or '+' or '-' or '&'.
+# ** Error: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(109): near "when": (vcom-1576) expecting ';'.
+# ** Error: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(119): near "when": (vcom-1576) expecting ';'.
+# ** Error (suppressible): /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(100): (vcom-1339) Case statement choices cover only 2 out of 4 cases.
+# ** Note: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd(128): VHDL Compiler exiting
+# End time: 23:25:19 on May 05,2021, Elapsed time: 0:00:00
+# Errors: 6, Warnings: 0
+vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:26:50 on May 05,2021
+# vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Compiling entity rise_span
+# -- Compiling architecture RTL of rise_span
+# -- Compiling entity measure_i2c_puls
+# -- Compiling architecture RTL of measure_i2c_puls
+# End time: 23:26:50 on May 05,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:27:02 on May 05,2021
+# vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity test_measure_i2c_puls
+# -- Compiling architecture SIM of test_measure_i2c_puls
+# ** Error: /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd(44): near "end": (vcom-1576) expecting ';'.
+# End time: 23:27:02 on May 05,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:27:23 on May 05,2021
+# vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity test_measure_i2c_puls
+# -- Compiling architecture SIM of test_measure_i2c_puls
+# ** Error (suppressible): /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd(23): (vcom-1272) Length of formal "wraddress" is 8; length of actual is 16.
+# ** Note: /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd(44): VHDL Compiler exiting
+# End time: 23:27:23 on May 05,2021, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:28:19 on May 05,2021
+# vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity test_measure_i2c_puls
+# -- Compiling architecture SIM of test_measure_i2c_puls
+# End time: 23:28:19 on May 05,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vsim work.test_measure_i2c_puls
+# vsim work.test_measure_i2c_puls 
+# Start time: 23:28:37 on May 05,2021
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.test_measure_i2c_puls(sim)
+# Loading work.measure_i2c_puls(rtl)
+# Loading ieee.std_logic_arith(body)
+# Loading work.rise_span(rtl)
+# ** Warning: (vsim-3473) Component instance "U1 : detect_rise" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /test_measure_i2c_puls/U1/U1 File: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+# ** Warning: (vsim-3473) Component instance "U1 : detect_rise" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /test_measure_i2c_puls/U1/U2 File: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+add wave -position insertpoint  \
+sim:/test_measure_i2c_puls/clk \
+sim:/test_measure_i2c_puls/rst \
+sim:/test_measure_i2c_puls/sda \
+sim:/test_measure_i2c_puls/scl \
+sim:/test_measure_i2c_puls/wen \
+sim:/test_measure_i2c_puls/add \
+sim:/test_measure_i2c_puls/val
+run -all
+# ** Failure: end.
+#    Time: 1110 ns  Iteration: 0  Process: /test_measure_i2c_puls/line__31 File: /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd
+# Break in Process line__31 at /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd line 43
+add wave -position insertpoint  \
+sim:/test_measure_i2c_puls/U1/status
+add wave -position insertpoint  \
+sim:/test_measure_i2c_puls/U1/U1/status
+add wave -position insertpoint  \
+sim:/test_measure_i2c_puls/U1/U2/status
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3473) Component instance "U1 : detect_rise" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /test_measure_i2c_puls/U1/U1 File: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+# ** Warning: (vsim-3473) Component instance "U1 : detect_rise" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /test_measure_i2c_puls/U1/U2 File: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+run -all
+# ** Failure: end.
+#    Time: 1110 ns  Iteration: 0  Process: /test_measure_i2c_puls/line__31 File: /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd
+# Break in Process line__31 at /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd line 43
+add wave -position insertpoint  \
+sim:/test_measure_i2c_puls/U1/U1/ena
+add wave -position insertpoint  \
+sim:/test_measure_i2c_puls/U1/U2/ena
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# ** Warning: (vsim-3473) Component instance "U1 : detect_rise" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /test_measure_i2c_puls/U1/U1 File: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+# ** Warning: (vsim-3473) Component instance "U1 : detect_rise" is not bound.
+#    Time: 0 ps  Iteration: 0  Instance: /test_measure_i2c_puls/U1/U2 File: /home/mito/develop/m5paper/i2cprobe/measure_i2c_puls.vhd
+run -all
+# ** Failure: end.
+#    Time: 1110 ns  Iteration: 0  Process: /test_measure_i2c_puls/line__31 File: /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd
+# Break in Process line__31 at /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd line 43
+vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/detect_fall.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:34:09 on May 05,2021
+# vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/detect_fall.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity detect_fall
+# -- Compiling architecture RTL of detect_fall
+# End time: 23:34:09 on May 05,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/detect_rise.vhd
+# Model Technology ModelSim - Intel FPGA Edition vcom 2020.1 Compiler 2020.02 Feb 28 2020
+# Start time: 23:34:13 on May 05,2021
+# vcom -reportprogress 300 -work work /home/mito/develop/m5paper/i2cprobe/detect_rise.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity detect_rise
+# -- Compiling architecture RTL of detect_rise
+# End time: 23:34:13 on May 05,2021, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.detect_rise(rtl)
+run -all
+# ** Failure: end.
+#    Time: 1110 ns  Iteration: 0  Process: /test_measure_i2c_puls/line__31 File: /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd
+# Break in Process line__31 at /home/mito/develop/m5paper/i2cprobe/test_measure_i2c_puls.vhd line 43
+# End time: 23:39:57 on May 05,2021, Elapsed time: 0:11:20
+# Errors: 1, Warnings: 0
